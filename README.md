@@ -125,34 +125,38 @@ const paulo = {
 
 ---
 
+<!-- Snake eating contributions -->
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+<br/>
+
+---
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- Estatísticas do GitHub -->
+  <!-- GitHub Streak e Stats lado a lado -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulonobrejr&theme=tokyonight&border=3b82f6&background=1a1b27&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulonobrejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=3b82f6&bg_color=1a1b27&title_color=3b82f6&icon_color=3b82f6"/>
 
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulonobrejr&layout=compact&theme=tokyonight&border_color=3b82f6&bg_color=1a1b27&title_color=3b82f6"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulonobrejr&theme=tokyonight&border=3b82f6&background=1a1b27&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=paulonobrejr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+  <!-- Trophy - apenas Experience e Commits -->
+  <img src="https://github-profile-trophy.vercel.app/?username=paulonobrejr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C&title=Experience,Commits" alt="GitHub Trophy"/>
 
 </div>
 
@@ -162,19 +166,6 @@ const paulo = {
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulonobrejr&custom_title=Paulo's%20Contribution%20Graph&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=60a5fa&area_color=3b82f6&area=true&hide_border=false&border_color=3b82f6" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-<!-- Snake eating contributions -->
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulonobrejr/paulonobrejr/output/github-contribution-grid-snake.svg">
-  </picture>
 
 </div>
 
