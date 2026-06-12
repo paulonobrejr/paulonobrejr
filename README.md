@@ -1,10 +1,8 @@
-# Paulo Nobre Jr
+# Paulo Nobre Junior
 
 Software Engineer | Full Stack Developer
 
 Rio de Janeiro, Brazil 🇧🇷
-
----
 
 ## Quick Links
 
@@ -12,28 +10,28 @@ Rio de Janeiro, Brazil 🇧🇷
 - **Email**: [paulonobrejunior@outlook.com](mailto:paulonobrejunior@outlook.com)
 - **GitHub**: You're already here!
 
----
-
 ## About
 
 I'm a software engineer focused on building scalable, maintainable solutions. Experienced in full-stack development with expertise in modern web technologies and cloud infrastructure.
 
 Currently exploring system design, cloud architecture, and best practices in software engineering.
 
----
-
 ## Tech Stack
 
-### Frontend
-- React
-- TypeScript
-- Tailwind CSS
-
 ### Backend
+- PHP
+- Laravel
 - Node.js
 - Express.js
 
+### Frontend
+- React
+- Vue
+- TypeScript
+- Tailwind CSS
+
 ### Database
+- MySQL
 - PostgreSQL
 - MongoDB
 
@@ -41,14 +39,6 @@ Currently exploring system design, cloud architecture, and best practices in sof
 - AWS
 - Docker
 - Git
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulonobrejr&show_icons=true&hide=contribs,prs&count_private=true)
-
----
 
 ## Let's Connect
 
