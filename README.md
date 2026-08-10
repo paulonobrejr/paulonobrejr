@@ -1,52 +1,43 @@
 # Paulo Nobre Junior
 
-Software Engineer | Full Stack Developer
+Backend-focused Software Engineer, Rio de Janeiro, Brazil 🇧🇷
 
-Rio de Janeiro, Brazil 🇧🇷
+**LinkedIn**: [linkedin.com/in/paulonobrejr](https://linkedin.com/in/paulonobrejr) · **Email**: [paulonobrejunior@outlook.com](mailto:paulonobrejunior@outlook.com)
 
-## Quick Links
-
-- **LinkedIn**: [linkedin.com/in/paulonobrejr](https://linkedin.com/in/paulonobrejr)
-- **Email**: [paulonobrejunior@outlook.com](mailto:paulonobrejunior@outlook.com)
-- **GitHub**: You're already here!
+---
 
 ## About
 
-I'm a software engineer focused on building scalable, maintainable solutions. Experienced in full-stack development with expertise in modern web technologies and cloud infrastructure.
+5+ anos construindo plataformas SaaS e APIs RESTful escaláveis em PHP/Laravel e Node.js. Alguns resultados concretos de projetos que arquitetei e entreguei:
 
-Currently exploring system design, cloud architecture, and best practices in software engineering.
+- Redução de 70% em operações manuais em uma plataforma de logística internacional
+- Dashboards com performance sub-segundo processando 10.000+ registros em tempo real
+- Redução de tempo de carregamento de 3.2s para 0.8s ao resolver problemas de N+1 queries e implementar indexação estratégica
+- Melhoria de 25% na performance de aplicação em times internacionais
 
-## Tech Stack
+---
 
-### Backend
-- PHP
-- Laravel
-- Node.js
-- Express.js
+## Stack
 
-### Frontend
-- React
-- Vue
-- TypeScript
-- Tailwind CSS
+**Backend**: PHP 8.x · Laravel · Node.js · Express.js · REST APIs · GraphQL
 
-### Database
-- MySQL
-- PostgreSQL
-- MongoDB
+**Databases & Caching**: MySQL · PostgreSQL · MongoDB · Redis
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Git
+**Frontend**: Vue.js · React · Next.js · TypeScript
+
+**DevOps & Infraestrutura**: Docker · AWS (EC2, S3, RDS) · CI/CD · GitHub Actions
+
+**Arquitetura**: Microsserviços · SOLID · RBAC · SaaS · API Design
+
+---
 
 ## GitHub Stats
 
 ![GitHub stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
+---
+
 ## Let's Connect
 
-Open to opportunities and always interested in discussing software engineering, system design, and tech innovation.
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/paulonobrejr) or [email](mailto:paulonobrejunior@outlook.com).
+Aberto a conversas sobre engenharia de software, arquitetura de sistemas e oportunidades. Entre em contato via [LinkedIn](https://linkedin.com/in/paulonobrejr) ou [e-mail](mailto:paulonobrejunior@outlook.com).
