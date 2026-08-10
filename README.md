@@ -40,6 +40,11 @@ Currently exploring system design, cloud architecture, and best practices in sof
 - Docker
 - Git
 
+## GitHub Stats
+
+![GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 ## Let's Connect
 
 Open to opportunities and always interested in discussing software engineering, system design, and tech innovation.
