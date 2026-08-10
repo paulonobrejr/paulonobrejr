@@ -1,6 +1,6 @@
 # Paulo Nobre Junior
 
-Backend-focused Software Engineer, Rio de Janeiro, Brazil 🇧🇷
+Backend Software Engineer | Scalable SaaS Platforms & RESTful APIs | Rio de Janeiro, Brazil 🇧🇷 (Remote)
 
 **LinkedIn**: [linkedin.com/in/paulonobrejr](https://linkedin.com/in/paulonobrejr) · **Email**: [paulonobrejunior@outlook.com](mailto:paulonobrejunior@outlook.com)
 
@@ -8,16 +8,16 @@ Backend-focused Software Engineer, Rio de Janeiro, Brazil 🇧🇷
 
 ## About
 
-5+ anos construindo plataformas SaaS e APIs RESTful escaláveis em PHP/Laravel e Node.js. Alguns resultados concretos de projetos que arquitetei e entreguei:
+Backend-focused Software Engineer with 5+ years building scalable SaaS platforms and RESTful APIs in PHP/Laravel and Node.js. Proven track record delivering measurable impact across distributed, international teams:
 
-- Redução de 70% em operações manuais em uma plataforma de logística internacional
-- Dashboards com performance sub-segundo processando 10.000+ registros em tempo real
-- Redução de tempo de carregamento de 3.2s para 0.8s ao resolver problemas de N+1 queries e implementar indexação estratégica
-- Melhoria de 25% na performance de aplicação em times internacionais
+- Reduced manual operations by 70% on an international logistics SaaS platform
+- Built real-time dashboards processing 10,000+ records with sub-second performance
+- Cut dashboard load time from 3.2s to 0.8s by resolving N+1 queries and implementing strategic indexing
+- Improved application performance by 25% across distributed teams
 
 ---
 
-## Stack
+## Tech Stack
 
 **Backend**: PHP 8.x · Laravel · Node.js · Express.js · REST APIs · GraphQL
 
@@ -25,9 +25,9 @@ Backend-focused Software Engineer, Rio de Janeiro, Brazil 🇧🇷
 
 **Frontend**: Vue.js · React · Next.js · TypeScript
 
-**DevOps & Infraestrutura**: Docker · AWS (EC2, S3, RDS) · CI/CD · GitHub Actions
+**DevOps & Infrastructure**: Docker · AWS (EC2, S3, RDS) · CI/CD · GitHub Actions
 
-**Arquitetura**: Microsserviços · SOLID · RBAC · SaaS · API Design
+**Architecture & Practices**: Microservices · SOLID · RBAC · Multi-Tenancy · System Design · API Design · OWASP Security Standards
 
 ---
 
@@ -40,4 +40,4 @@ Backend-focused Software Engineer, Rio de Janeiro, Brazil 🇧🇷
 
 ## Let's Connect
 
-Aberto a conversas sobre engenharia de software, arquitetura de sistemas e oportunidades. Entre em contato via [LinkedIn](https://linkedin.com/in/paulonobrejr) ou [e-mail](mailto:paulonobrejunior@outlook.com).
+Open to backend and full-stack engineering opportunities. Always glad to talk software architecture, system design, and distributed systems. Reach out via [LinkedIn](https://linkedin.com/in/paulonobrejr) or [email](mailto:paulonobrejunior@outlook.com).
